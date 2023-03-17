@@ -60,7 +60,7 @@ Upvote (“thumbs up”) questions and proposals from other people. There may be
 This week's suggested readings:
 
 - [(required) Novel Dynamical Models of Wealth and Cooperation Using Information Theory](https://github.com/uchicago-computation-workshop/Spring2023/blob/main/03_23_jordan_kemp/Kemp_Bettencourt_PNAS_Nexus_2023.pdf)
-<!-- - [(optional) The Risk of Apologizing First](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/03_02_Chaudhry/Chaudhry%20%26%20Burdea%20-%20The%20Risk%20of%20Apologizing%20First.pdf) -->
+- [(optional) Statistical dynamics of wealth inequality in stochastic models of growth](https://github.com/uchicago-computation-workshop/Spring2023/blob/main/03_23_jordan_kemp/Statistical%20dynamics%20of%20wealth%20inequality%20in%20stochastic%20models%20of%20growth.pdf) 
 <br>
 
 <br><br>
