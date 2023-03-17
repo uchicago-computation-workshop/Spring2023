@@ -14,7 +14,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Winter2023/blob/main/03_02_Chaudhry/Chaudhry%2C%20Banerjee%2C%20Wu%20-%20Extended%20abstract%20-%20Public%20apologies%20-%20for%20CSS.docx> Making amends with the audience: Manager use of public apologies and other amends-making strategies </a>
+  <a href=https://github.com/uchicago-computation-workshop/Spring2023/blob/main/03_23_jordan_kemp/Kemp_Bettencourt_PNAS_Nexus_2023.pdf> Novel Dynamical Models of Wealth and Cooperation Using Information Theory  </a>
 </h2>
 
 <br>
@@ -22,7 +22,7 @@
 
 <p class=footertext2>
 
-**Summary:** When it comes to organizational transgressions, amends-making in the public eye serves to affect an organization’s reputation, and thus, subsequent success. Since previous work on amends-making has focused on interpersonal conflicts, little is known about the efficacy of organizational amends-making strategies in repairing audience satisfaction. We address this gap by looking at the effectiveness of amends-making strategies in two datasets of manager responses to service failures. In a dataset of hotel manager responses to customer complaints on TripAdvisor, we use a data-driven approach to identify five components of amends-making strategies used by managers: public apology, corrective action, responsibility acknowledgement, explanation, and counteroffensive strategy. Using structural equation modeling, we find that only corrective actions (e.g., offering to repair a situation or promising change) and public apologies positively predicted audience satisfaction. We further verified the causal relationships between each of the five individual factors that we identified above and audience satisfaction by using a quasi-experimental matching technique (to minimize covariation) based on a combination of propensity score and Euclidean distance. In a second dataset of manager responses to service failures on Twitter, we are currently examining whether the presence of explicit apologies in manager responses impacts outcomes like company mentions and the sentiment of audience replies. In sum, this paper seeks to offer empirically supported guidelines for organizations who aim to repair audience perceptions following a transgression as well as providing theoretical insight into how to repair organizational violations of trust.
+**Summary:** The statistical dynamics of population growth, wealth, and inequality are related through their common description as multiplicative stochastic processes. In these systems, variations in growth rates determine selection, relative wealth, and cooperation. Despite its relevance for biological and social sciences, we still lack a general theory that explains the dynamics of growth rates in terms of agent adaptation to their environment, heterogeneities of traits, and other consequential behaviors. In this talk, we derive a general population dynamics of learning agents leveraging the knowledge of their environments to grow and reinvest their resources. Growth rates emerge in the long-time limit as the mutual information between agents signals and states of the environment. We show that, with knowledge of past and present conditions only, sequential Bayesian inference is optimal for maximizing growth, thus formally associating growth rates with information. We discuss how this framework can address problems of inequality in heterogeneous populations and lay the foundations for a unified general quantitative theory of social and biological phenomena such as the dynamics of cooperation via Hamilton's rule, and the effects of education on life history choices.
 
 </p>
 
@@ -59,8 +59,8 @@ Upvote (“thumbs up”) questions and proposals from other people. There may be
 
 This week's suggested readings:
 
-- [(required) Extended abstract - Public apologies - for CSS](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/03_02_Chaudhry/Chaudhry%2C%20Banerjee%2C%20Wu%20-%20Extended%20abstract%20-%20Public%20apologies%20-%20for%20CSS.docx)
-- [(optional) The Risk of Apologizing First](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/03_02_Chaudhry/Chaudhry%20%26%20Burdea%20-%20The%20Risk%20of%20Apologizing%20First.pdf)
+- [(required) Novel Dynamical Models of Wealth and Cooperation Using Information Theory](https://github.com/uchicago-computation-workshop/Spring2023/blob/main/03_23_jordan_kemp/Kemp_Bettencourt_PNAS_Nexus_2023.pdf)
+<!-- - [(optional) The Risk of Apologizing First](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/03_02_Chaudhry/Chaudhry%20%26%20Burdea%20-%20The%20Risk%20of%20Apologizing%20First.pdf) -->
 <br>
 
 <br><br>
@@ -69,4 +69,4 @@ This week's suggested readings:
 
 <p class=footertext> The 2022-2023 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11:00 a.m. to 12:20 p.m.. All interested faculty and graduate students are welcome.</p>
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Winter2023/issues/4>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Winter2023>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2023/issues/1>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2023>workshop's public repository on GitHub.</a></p>
