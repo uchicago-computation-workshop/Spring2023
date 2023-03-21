@@ -37,7 +37,7 @@
 
 **Jordan Kemp** Jordan Kemp is an NSF Graduate Research Fellow pursuing a PhD at the University of Chicago Department of Physics. He researches novel theories of social and biological organization by studying agent decision-making in noisy environments. By combining techniques from statistical physics, information theory, and cognitive psychology, he derives theories for agent learning and growth, then studies how these behaviors aggregate at the population level to drive inequality and cooperation. In the past, he has conducted experimental research in both quantum computing and simulation using neutral cold atoms with the Bernien Lab at UChicago, and in gravitational wave detection with Rana Adhikari and the LIGO Group at Caltech. He was raised in rural Pennsylvania and holds a BS in Physics from Tufts University.
 
-[Jordan's Personal Website](https://jordantk.com/index.html) 
+[Jordan's Personal Website](https://jordantk.com) 
 </p>
 
 <br>
