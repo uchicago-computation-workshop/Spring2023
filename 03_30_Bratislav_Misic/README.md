@@ -30,7 +30,7 @@
 <br>
 
 <h4 class=pfblock-header3> Thursday, 03/30 </h4>
-<h4 class=pfblock-header3> 9:30am-10:50pm </h4>
+<h4 class=pfblock-header3> 9:30am-10:50am </h4>
 
 <br><br>
 
