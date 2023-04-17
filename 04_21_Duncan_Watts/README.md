@@ -2,9 +2,9 @@
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Bratislav Misic</h1>
-<h3 class=pfblock-header3> Assistant Professor</h3>
-<h3 class=pfblock-header3> McGill University </h3>
+<h1 class=pfblock-header3> Duncan Watts</h1>
+<h3 class=pfblock-header3> Professor (and Director of the Computational Social Science Lab at UPenn)</h3>
+<h3 class=pfblock-header3> University of Pennsylvania </h3>
 
 <br><br>
 
