@@ -14,7 +14,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Spring2023/blob/main/03_30_Bratislav_Misic/Suarez_2020_TrendsCognSci.pdf> Are algorithms undermining democracy? A data science perspective </a>
+  <a href=https://github.com/uchicago-computation-workshop/Spring2023/blob/main/04_21_Duncan_Watts/Muise%20et%20al%20Sci%20Advances%202022.pdf> Are algorithms undermining democracy? A data science perspective </a>
 </h2>
 
 <br>
