@@ -29,14 +29,17 @@
 
 <br>
 
-<h4 class=pfblock-header3> Thursday, 03/30 </h4>
+<h4 class=pfblock-header3> Thursday, 04/20 </h4>
 <h4 class=pfblock-header3> 9:30am-10:50am </h4>
 
 <br><br>
 
 <p class=footertext2>
 
-**Bratislav Misic** Dr. Bratislav Misic leads the Network Neuroscience Lab. We investigate how cognitive operations and complex behaviour emerge from the connections and interactions among brain areas. The goal of this research is to quantify the effects of disease on brain structure and function. Our research program emphasizes representations and models that not only embody the topological organization of the brain, but also capture the complex multi-scale relationships that link brain network topology to dynamic biological processes, such as neural signalling and disease spread. Our research lies at the intersection of network science, dynamical systems and multivariate statistics, with a focus on complex data sets involving multiple neuroimaging modalities, including fMRI, DWI, MEG/EEG and PET.
+**Duncan Watts** is the Stevens University Professor and twenty-third Penn Integrates Knowledge University Professor at the University of Pennsylvania.
+  Duncan Watts is a computational social scientist interested in social and organizational networks, collective dynamics of human systems, web-based experiments, and analysis of large-scale digital data, including the production, consumption, and absorption of news.
+  
+ In addition to his appointment at the Annenberg School, he holds faculty appointments in the Department of Computer and Information Science in the School of Engineering and Applied Science, and the Department of Operations, Information and Decisions in the Wharton School, where he is the inaugural Rowan Fellow. He holds a secondary appointment in the Department of Sociology in the School of Arts & Sciences. He directs the Computational Social Science Lab at Penn. 
 
 </p>
 
@@ -49,7 +52,7 @@
 
 **Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the first issues page of the workshop’s public repository.
 
-**Before the first meeting**, by Wednesday, April 29 @ 11:59pm MACSS students must:
+**Before the first meeting**, by Wednesday, April 19 @ 11:59pm MACSS students must:
 
 Comment a well-developed question or comment about the reading for this week’s workshop on the public repository.
 
@@ -67,6 +70,6 @@ This week's suggested readings:
 
 ---
 
-<p class=footertext> The 2022-2023 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11:00 a.m. to 12:20 p.m.. All interested faculty and graduate students are welcome.</p>
+<p class=footertext> The 2022-2023 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 9:30am-10:50am. All interested faculty and graduate students are welcome.</p>
 
 <p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2023/issues/3>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2023>workshop's public repository on GitHub.</a></p>
