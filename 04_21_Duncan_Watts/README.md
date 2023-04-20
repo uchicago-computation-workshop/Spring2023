@@ -63,9 +63,9 @@ Upvote (“thumbs up”) questions and proposals from other people. There may be
 
 This week's suggested readings:
 
-- [(required) [Quantifying partisan news diets in Web and TV audiences](https://github.com/uchicago-computation-workshop/Spring2023/blob/main/03_30_Bratislav_Misic/Suarez_2020_TrendsCognSci.pdf)
-- [(Optional) [Examining the consumption of radical content on YouTube](https://github.com/uchicago-computation-workshop/Spring2023/blob/main/03_30_Bratislav_Misic/Suarez_2020_TrendsCognSci.pdf)
-- [(Optional) [Evaluating the fake news problem at the scale of the information ecosystem](https://github.com/uchicago-computation-workshop/Spring2023/blob/main/03_30_Bratislav_Misic/Suarez_2020_TrendsCognSci.pdf)
+- [(required) [Quantifying partisan news diets in Web and TV audiences](https://github.com/uchicago-computation-workshop/Spring2023/blob/main/04_21_Duncan_Watts/Muise%20et%20al%20Sci%20Advances%202022.pdf)
+- [(Optional) [Examining the consumption of radical content on YouTube](https://github.com/uchicago-computation-workshop/Spring2023/blob/main/04_21_Duncan_Watts/Hosseinmardi%20YouTube%20PNAS%202021.pdf)
+- [(Optional) [Evaluating the fake news problem at the scale of the information ecosystem](https://github.com/uchicago-computation-workshop/Spring2023/blob/main/04_21_Duncan_Watts/Allen_et_al_Science_Advances_2020.pdf)
 <br><br>
 
 ---
