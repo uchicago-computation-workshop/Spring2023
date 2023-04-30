@@ -3,7 +3,7 @@
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
 <h1 class=pfblock-header3> Daniel Nettle</h1>
-<h3 class=pfblock-header3> Professor</h3>
+<h3 class=pfblock-header3> Professor of Behavioural Science </h3>
 <h3 class=pfblock-header3> Newcastle University </h3>
 
 <br><br>
