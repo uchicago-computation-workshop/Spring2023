@@ -14,7 +14,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Spring2023/blob/main/04_21_Duncan_Watts/Muise%20et%20al%20Sci%20Advances%202022.pdf> Inequality, desperation and crime: Computational and experimental evidence </a>
+  <a href=https://github.com/uchicago-computation-workshop/Spring2023/blob/main/05_04_Daniel_Nettle/Why%20do%20inequality%20and%20deprivation%20produce%20high%20crime%20and%20low%20trust%3F.pdf> Inequality, desperation and crime: Computational and experimental evidence </a>
 </h2>
 
 <br>
@@ -59,7 +59,7 @@ Upvote (“thumbs up”) questions and proposals from other people. There may be
 
 This week's suggested readings:
 
-- [(required) [Quantifying partisan news diets in Web and TV audiences](https://github.com/uchicago-computation-workshop/Spring2023/blob/main/04_21_Duncan_Watts/Muise%20et%20al%20Sci%20Advances%202022.pdf)
+- (required) [Why do inequality and deprivation produce high crime and low trust?](https://github.com/uchicago-computation-workshop/Spring2023/blob/main/05_04_Daniel_Nettle/Why%20do%20inequality%20and%20deprivation%20produce%20high%20crime%20and%20low%20trust%3F.pdf)
 
 ---
 
