@@ -48,7 +48,7 @@
 
 **Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the first issues page of the workshop’s public repository.
 
-**Before the first meeting**, by Wednesday, May 2nd @ 11:59pm MACSS students must:
+**Before the first meeting**, by Wednesday, May 3rd @ 11:59pm MACSS students must:
 
 Comment a well-developed question or comment about the reading for this week’s workshop on the public repository.
 
