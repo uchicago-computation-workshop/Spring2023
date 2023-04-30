@@ -36,7 +36,7 @@
 
 <p class=footertext2>
 
-**Daniel Nettle** is a researcher in the Evolution and Social Cognition team at the Ecole Normale Supérieure-PSL, Paris. he is also a Professor of Behavioural Science at Newcastle University. He studies a number of different topics relating to behaviour, cognition, society and health.
+**Daniel Nettle** is a researcher in the Evolution and Social Cognition team at the Ecole Normale Supérieure-PSL, Paris. He is also a Professor of Behavioural Science at Newcastle University. He studies a number of different topics relating to behaviour, cognition, society and health.
 
 </p>
 
